@@ -31,16 +31,16 @@ Here are some ideas to get you started:
 </p>
 
 ---
-<details open>
+<!--- <details open> -->
  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=navegantes&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=navegantes&hide=shell,ruby&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api?username=navegantes&show_icons=true&theme=bear&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=navegantes&hide=shell,ruby&theme=bear">
 </p>
-<!---
+<!--- nightowl react bear tokyonight
  <br>
 <p align = "center"><img src="https://wakatime.com/share/@pr2tik1/8332ae94-9ac8-47ed-9d19-2907324fd8b7.svg" alt="Wakatime report" height="300" />
 <img src="https://wakatime.com/share/@pr2tik1/706a719b-6843-40f9-b397-151faf9ade2d.svg" alt="Wakatime report" height="300" /></p>  
+</details> 
 -->
-</details>
