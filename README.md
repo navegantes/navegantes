@@ -36,8 +36,8 @@ Here are some ideas to get you started:
  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=navegantes&show_icons=true&theme=bear&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=navegantes&hide=shell,ruby&theme=bear">
+  <img src = "https://github-readme-stats.vercel.app/api?username=navegantes&show_icons=true&theme=nightowl&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=navegantes&hide=shell,ruby&theme=nightowl">
 </p>
 <!--- nightowl react bear tokyonight
  <br>
