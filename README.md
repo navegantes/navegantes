@@ -1,5 +1,7 @@
 
-<img src="https://instagram.fbel1-1.fna.fbcdn.net/v/t51.2885-15/e35/80001698_727207367765498_5638795091096666953_n.jpg?_nc_ht=instagram.fbel1-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=SQ-TZ7YLdzgAX-75Il3&tp=1&oh=b32ae499cfe3491f0575842da1af5ce6&oe=60287A41" min-width="200px" max-width="300px" width="250px" align="right" alt="Catioro">
+<-- <img src="https://instagram.fbel1-1.fna.fbcdn.net/v/t51.2885-15/e35/80001698_727207367765498_5638795091096666953_n.jpg?_nc_ht=instagram.fbel1-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=SQ-TZ7YLdzgAX-75Il3&tp=1&oh=b32ae499cfe3491f0575842da1af5ce6&oe=60287A41" min-width="200px" max-width="300px" width="250px" align="right" alt="Catioro"> -->
+
+<img src="img/julia_4_viridis.gif" min-width="200px" max-width="300px" width="250px" align="right" alt="Juliaset">
 
 ### Saluton kiel vi fartas? 👋
 
