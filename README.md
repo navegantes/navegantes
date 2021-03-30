@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <br>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=navegantes&show_icons=true&theme=nightowl&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=navegantes&hide=shell,ruby&theme=nightowl&layout=compact&count_private=true&langs_count=6">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=navegantes&theme=nightowl&layout=compact&count_private=true&langs_count=6">
 </p>
 <!--- nightowl react bear tokyonight
  <br>
