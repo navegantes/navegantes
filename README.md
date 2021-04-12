@@ -12,14 +12,17 @@
 -->
 
 - 🧑‍💻 Sou Engenheiro da Computação e costumo programar em ...
+
   <img align="center" alt="Rafa-py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-m" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg">
 
 - 🧠 Atualmente me aventurando em neurociências com ...
+
   <img align="center" alt="Rafa-py" height="30" width="40" src="https://raw.githubusercontent.com/mne-tools/mne-python/main/logo/logo_hex.svg">
   <img align="center" alt="neurokit-py" height="30" width="40" src="https://raw.githubusercontent.com/neuropsychology/NeuroKit/master/docs/img/neurokit.png">
 
 - 🌱 Paralelamente melhorando minhas habilidades em desenvolvimento web com ...
+
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -27,6 +30,7 @@
 <ul> <li>🌐 Aqui minha <a href="https://navegantes.vercel.app/">🔗 Home page</a> teste (por hora =]).</li></ul>
 
 - ⚡ E expandindo para frameworks como ...
+
   <img align="center" alt="Rafa-dj" height="30" width="30" src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 
