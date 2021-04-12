@@ -30,10 +30,9 @@
 <ul> <li>🌐 Aqui minha <a href="https://navegantes.vercel.app/">🔗 Home page</a> teste (por hora =]).</li></ul>
 
 - ⚡ E expandindo para frameworks como ...
-<div style="display: inline_block">
+
   <img align="center" alt="Rafa-dj" height="30" width="30" src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-</div>
 
 - 📫 Entre em contato comigo: ...
 
