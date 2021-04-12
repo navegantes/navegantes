@@ -1,14 +1,46 @@
 
 <!-- <img src="https://instagram.fbel1-1.fna.fbcdn.net/v/t51.2885-15/e35/80001698_727207367765498_5638795091096666953_n.jpg?_nc_ht=instagram.fbel1-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=SQ-TZ7YLdzgAX-75Il3&tp=1&oh=b32ae499cfe3491f0575842da1af5ce6&oe=60287A41" min-width="200px" max-width="300px" width="250px" align="right" alt="Catioro"> -->
 
-<img src="img/julia_4_viridis.gif" min-width="300px" max-width="300px" width="300px" align="right" alt="Juliaset">
 
-### Saluton kiel vi fartas? 👋
+<img style="text-align:right" src="img/julia_4_viridis.gif" align="right" min-width="300px" max-width="300px" width="300px" alt="Juliaset">
+  
+
+## Saluton Raphael Navegantes aqui! 👋
+### kiel vi fartas?  <span style="color:green;">★</span> 
 
 <!--
 **navegantes/navegantes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+- 🧑‍💻 Sou Engenheiro da Computação e costumo programar em...
+<div style="display: inline_block">
+  <img align="center" alt="Rafa-py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-m" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg">
+</div>
 
+- 🧠 Atualmente me aventurando em neurociências com ...
+<div style="display: inline_block">
+  <img align="center" alt="Rafa-py" height="30" width="40" src="https://raw.githubusercontent.com/mne-tools/mne-python/main/logo/logo_hex.svg">
+  <img align="center" alt="neurokit-py" height="30" width="40" src="https://raw.githubusercontent.com/neuropsychology/NeuroKit/master/docs/img/neurokit.png">
+</div>
+
+- 🌱 Paralelamente melhorando minhas habilidades em desenvolvimento web com ...
+<div style="display: inline_block">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+<br>
+<ul> <li>🌐 Aqui minha <a href="https://navegantes.vercel.app/">🔗 Home page</a> teste (por hora =]).</li></ul>
+
+- ⚡ E expandindo para frameworks como ...
+<div style="display: inline_block">
+  <img align="center" alt="Rafa-dj" height="30" width="30" src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+</div>
+
+- 📫 Entre em contato comigo: ...
+
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -18,6 +50,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 📫 How to reach me: ...
+-->
 
 <p align="center">
   <a href="https://t.me/raphaelnavegantes/" alt="Linkedin">
