@@ -20,18 +20,18 @@
   <img align="center" alt="Rafa-py" height="30" width="40" src="https://raw.githubusercontent.com/mne-tools/mne-python/main/logo/logo_hex.svg">
   <img align="center" alt="neurokit-py" height="30" width="40" src="https://raw.githubusercontent.com/neuropsychology/NeuroKit/master/docs/img/neurokit.png">
 
-- 🌱 Paralelamente melhorando minhas habilidades em desenvolvimento web com ...
+- 🌱 Também me aventuro em desenvolvimento web com ...
 
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-<ul> <li>🌐 Aqui minha <a href="https://navegantes.vercel.app/">🔗 Home page</a> de teste (por hora =p).</li></ul>
-
-- ⚡ E expandindo para frameworks como ...
+  
+- ⚡ E um pouco mais além com ...
 
   <img align="center" alt="Rafa-dj" height="30" width="30" src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+
+<ul> <li>🌐 Aqui uma <a href="https://navegantes.vercel.app/">🔗 Home page</a> (que vou terminar juro).</li></ul>
 
 - 📫 Entre em contato comigo: ...
 
