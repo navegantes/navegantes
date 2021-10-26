@@ -30,6 +30,7 @@
 
   <img align="center" alt="Rafa-dj" height="30" width="30" src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 
 <ul> <li>🌐 Aqui uma <a href="https://navegantes.vercel.app/">🔗 Home page</a> (que vou terminar juro).</li></ul>
 
