@@ -36,9 +36,9 @@
 
 - 🏝 Pra relaxar me divirto com coisas legais. 
 <div>
-  <img align="center" src="img/mandelbrot.gif" width="333px" alt="Mandelbrotset" />
-  <img align="center" src="img/julia_4_viridis.gif" align="center" width="333px" alt="Juliaset" />
-  <img align="center" src="img/pattern2.gif" width="290px" alt="Senoide" />
+  <img align="center" src="img/mandelbrot.gif" width="300px" alt="Mandelbrotset" />
+  <img align="center" src="img/julia_4_viridis.gif" align="center" width="300px" alt="Juliaset" />
+  <img align="center" src="img/pattern2.gif" width="300px" alt="Senoide" />
 </div>
 
 *****
