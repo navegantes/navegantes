@@ -1,7 +1,7 @@
 
-<!-- <img src="https://instagram.fbel1-1.fna.fbcdn.net/v/t51.2885-15/e35/80001698_727207367765498_5638795091096666953_n.jpg?_nc_ht=instagram.fbel1-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=SQ-TZ7YLdzgAX-75Il3&tp=1&oh=b32ae499cfe3491f0575842da1af5ce6&oe=60287A41" min-width="200px" max-width="300px" width="250px" align="right" alt="Catioro"> -->
-
-  <img style="text-align:right" src="img/julia_4_viridis.gif" align="right" min-width="300px" max-width="300px" width="300px" alt="Juliaset">
+<!-- <img src="https://instagram.fbel1-1.fna.fbcdn.net/v/t51.2885-15/e35/80001698_727207367765498_5638795091096666953_n.jpg?_nc_ht=instagram.fbel1-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=SQ-TZ7YLdzgAX-75Il3&tp=1&oh=b32ae499cfe3491f0575842da1af5ce6&oe=60287A41" min-width="200px" max-width="300px" width="250px" align="right" alt="Catioro"> 
+  <img style="text-align:right" src="img/pattern2.gif" align="right" min-width="300px" max-width="400px" width="260px" alt="Senoid">
+-->
 
 ## Saluton Raphael Navegantes aqui! 👋
 ### kiel vi fartas?  <span style="color:green">★</span> 
@@ -33,6 +33,15 @@
   <img align="center" alt="Rafa-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 
 <ul> <li>🌐 Aqui uma <a href="https://navegantes.vercel.app/">🔗 Home page</a> (que vou terminar juro).</li></ul>
+
+- 🏝 Pra relaxar me divirto com coisas legais. 
+<div>
+  <img align="center" src="img/mandelbrot.gif" width="333px" alt="Mandelbrotset" />
+  <img align="center" src="img/julia_4_viridis.gif" align="center" width="333px" alt="Juliaset" />
+  <img align="center" src="img/pattern2.gif" width="290px" alt="Senoide" />
+</div>
+
+*****
 
 - 📫 Entre em contato comigo: ...
 
